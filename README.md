@@ -16,6 +16,7 @@ Konsep jaringan komputer bermula pada tahun 1940-an di Amerika dari sebuah proye
 #### a.	Pengertian Jaringan Komputer
 Jaringan komputer adalah kumpulan dua komputer atau lebih yang dapat saling terhubung dengan menggunakan media transmisi baik dengan menggunakan kabel/wired seperti fiber optic ataupun nirkabel/wireless. Dua unit komputer dikatakan terkoneksi apabila keduanya dapat saling bertukar data/informasi serta berbagi resource yang dimiliki seperti file, printer, storage dan sebagainya.  Jaringan komputer  minimal membutuhkan dua unit komputer, dimana dari keduanya ada proses request (meminta) dan replay(mengirim). Pihak yang melakukan request disebut sebagai client, dan pihak penyedia layanan atau pengirim disebut sebagai server.
 ![image](https://user-images.githubusercontent.com/70986579/153546235-7a7bb12d-8ec8-47d6-8c2b-e614e459ac5b.png)
+
 Tiap komputer dan resource yang terhubung dalam jaringan di sebut dengan node(simpul). Node dapat terdiri dari puluhan atau bahkan ribuan komputer yang saling terkoneksi satu sama lain. Sistem koneksi antar node diklasifikasikan berdasarkan fungsi dan jarak. Klasifikasi jaringan berdasarkan jarak adalah sebagaiberikut:
 1.	PAN (Personal Area Network)
 PAN merupakan jenis jaringan komputer pribadi dengan cakupan wilayah 10 meter atau jenis jaringan komputer pribadi jarak dekat, biasanya digunakan untuk perangkat elektronik seperti PC, Laptop  dan sebagainya, contohnya adalah mouse wireless, keyboard wireless, speaker, headphone dan sebagainya.
