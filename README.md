@@ -1,9 +1,7 @@
 # Modul 1 Pengenalan Jaringan Komputer
 ## 1. Tugas Pendahuluan
 - Apakah yang dimaksud dengan jaringan komputer ?
-
 - Bagaimana implementasi jaringan komputer di dunia nyata ?
-
 - Apa saja manfaat jaringan komputer ?
 ## 2.	Tujuan
 a.	Mahasiswa memahami konsep dasar jaringan komputer.
