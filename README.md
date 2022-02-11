@@ -32,6 +32,7 @@ MAN adalah jenis jaringan komputer yang mencakup kota. MAN sendiri merupakan kum
 Lebih luas dari MAN, WAN merupakan jenis jaringan komputer  yang cakupannya antar pulau, kota atau negara. 
 6.	GAN (Global Area Network)
 GAN merupakan jenis jaringan yang memungkinkan komunikasi perangkat mobile melalui berbagai wireless dalam jangkauan satelit.
+
 ![klasifikasi jaringan](https://user-images.githubusercontent.com/70986579/153546685-e81b000c-2406-4fe1-9a5e-cfd83184b155.jpg)
 
 Berdasarkan fungsi, jaringan komputer dapat diklasifikasikan sebagaimana berikut:
