@@ -1,5 +1,5 @@
 # MODUL 2 JARINGAN INTERNET
-
+![image](https://user-images.githubusercontent.com/70986579/153548806-bf05ad16-b09e-4d44-90a4-5106de522bee.png)
 ## 1.	Tugas Pendahuluan
 -	Apakah yang dimaksud dengan jaringan internet?
 -	Bagaimana jaringan internet dapat bekerja ?
@@ -13,7 +13,6 @@ Sering kali salah kaprah menganggap jaringan komputer itu sebagai jaringan inter
 
 ### a.	Jaringan Internet
 
-![image](https://user-images.githubusercontent.com/70986579/153548806-bf05ad16-b09e-4d44-90a4-5106de522bee.png)
 
 Internet merupakan istilah yang lahir dari tahun 1960-an di Amerika Serikat, kata internet sebelumnya dikenal dengan istilah ARPANET (Advanced Research Project Agency Network) yang merupakan suatu proyek dari Departement of Defence Amerika Serikat. Tujuan awal dari proyek ARPANET untuk keperluan militer dengan membuat sistem jaringan komputer yang tersebar untuk mengatasi serangan nuklir dan untuk menghindari terjadinya informasi terpusat. Tidak lama kemudian proyek tersebut berkembang dan digunakan banyak universitas yang ada di Amerika Serikat. 
 
