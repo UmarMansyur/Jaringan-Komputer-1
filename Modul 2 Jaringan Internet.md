@@ -9,6 +9,8 @@
 -	Mahasiswa dapat mengetahui cara kerja dari jaringan internet.
 
 ## 3.	Dasar Teori
+![image](https://user-images.githubusercontent.com/70986579/153549049-6497080e-d1b0-49d3-875d-26d80eb8e5b8.png)
+
 Sering kali salah kaprah menganggap jaringan komputer itu sebagai jaringan internet, tentu hal itu tidak sepenuhnya salah namun harus ada yang meluruskan pemahaman tersebut karena substansinya jaringan komputer itu terbagi menjadi dua, yaitu jaringan online dan jaringan offline. Jaringan online merupakan perangkat elektronik yang terhubung langsung pada jaringan internet sedangkan jaringan offline merupakan perangkat yang saling terhubung tanpa menggunakan jaringan internet. Dari dua istilah tersebut menjadi pembeda antara, jaringan internet dan jaringan komputer. Jaringan komputer lebih umum daripada jaringan internet sedangkan jaringan internet merupakan salah satu bentuk jaringan komputer, disebut jaringan komputer ketika ada dua komputer yang terkoneksi baik secara online maupun offline.
 
 ### a.	Jaringan Internet
