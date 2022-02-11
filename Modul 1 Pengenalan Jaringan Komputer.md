@@ -49,3 +49,6 @@ Cara untuk mengkoneksikan komputer satu dengan yang lainnya disebut sebagai topo
 -	Dengan bahasa sendiri, apakah yang disebut dengan jaringan komputer ?
 -	Buatlah poin perbandingan topologi berdasarkan kelebihan, kelemahan dan karakteristiknya !
 -	Sebutkan manfaat jaringan komputer berdasarkan hiburan, sosial budaya, pemerintahan, dan kesehatan !
+## 5.	Referensi
+Andrew S Tanenbaum. 2003. Computer Networks 4th-Edition. Pearson Inc
+Suhendra, Modul jaringan komputer, LPPM Politeknik Manufaktur Astra Jakarta
