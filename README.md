@@ -21,9 +21,9 @@ Jaringan komputer adalah kumpulan dua komputer atau lebih yang dapat saling terh
 
 Tiap komputer dan resource yang terhubung dalam jaringan di sebut dengan node(simpul). Node dapat terdiri dari puluhan atau bahkan ribuan komputer yang saling terkoneksi satu sama lain. Sistem koneksi antar node diklasifikasikan berdasarkan fungsi dan jarak. Klasifikasi jaringan berdasarkan jarak adalah sebagaiberikut:
 1.	PAN (Personal Area Network)
-PAN merupakan jenis jaringan komputer pribadi dengan cakupan wilayah 10 meter atau jenis jaringan komputer pribadi jarak dekat, biasanya digunakan untuk perangkat elektronik seperti PC, Laptop  dan sebagainya, contohnya adalah mouse wireless, keyboard wireless, speaker, headphone dan sebagainya.
+PAN merupakan jenis jaringan komputer pribadi dengan cakupan wilayah 10 meter atau jenis jaringan komputer pribadi jarak dekat, digunakan untuk perangkat elektronik mouse dan keyboard wireless
 2.	LAN ( Local Area Network)
-LAN adalah jaringan komputer dengan luas wilayah terpendek kedua setelah PAN, LAN sendiri biasanya digunakan oleh perkantoran, sekolah, dan instansi tertentu.
+LAN adalah jaringan komputer dengan luas wilayah lokal, seperti perkantoran, sekolah, dan instansi tertentu.
 3.	CAN (Cluster Area Network)
 Jaringan komputer yang menghubungkan beberapa LAN namun tetap dalam satu wilayah disebut sebagai CAN, seperti antar fakultas dalam suatu universitas, pangkalan milter dan sebagainya.
 4.	MAN (Metropolitan Area Network)
