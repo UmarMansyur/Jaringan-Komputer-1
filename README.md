@@ -42,6 +42,8 @@ Jaringan Peer to Peer adalah jaringan komputer yang setiap host dapat menjadi se
 Client Server adalah jaringan komputer memiliki satu buah server dan lainya bertindak sebagai client. Client Server merupakan Jaringan yang memperbolehkan jaringannya untuk memusatkan fungsi dan aplikasi dalam satu atau lebih file server.
 File server menjadi jantung dari sistem, menyediakan akses dan resources dan menyediakan keamanan. Individual workstation (client) memiliki akses ke resources yang tersedia pada file server. Untuk menggunakan Jaringan Client Server diperlukan sebuah media perantara berupa hub/switch.
 
+![image](https://user-images.githubusercontent.com/70986579/153547195-7b3dcb9f-ac19-4619-8bb8-716d3f06ca85.png)
+
 Cara untuk mengkoneksikan komputer satu dengan yang lainnya disebut sebagai topologi. Secara umum topologi dibagi menjadi 5 macam, yaitu topologi bus, ring, star, tree dan mesh
 ## 4.	Tugas dan Evaluasi
 -	Dengan bahasa sendiri, apakah yang disebut dengan jaringan komputer ?
