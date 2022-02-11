@@ -13,6 +13,8 @@ Sering kali salah kaprah menganggap jaringan komputer itu sebagai jaringan inter
 
 a.	Jaringan Internet
 
+![image](https://user-images.githubusercontent.com/70986579/153548806-bf05ad16-b09e-4d44-90a4-5106de522bee.png)
+
 Internet merupakan istilah yang lahir dari tahun 1960-an di Amerika Serikat, kata internet sebelumnya dikenal dengan istilah ARPANET (Advanced Research Project Agency Network) yang merupakan suatu proyek dari Departement of Defence Amerika Serikat. Tujuan awal dari proyek ARPANET untuk keperluan militer dengan membuat sistem jaringan komputer yang tersebar untuk mengatasi serangan nuklir dan untuk menghindari terjadinya informasi terpusat. Tidak lama kemudian proyek tersebut berkembang dan digunakan banyak universitas yang ada di Amerika Serikat. 
 
 Dikutip dari web resmi ITB, internet masuk ke indonesia tahun 1998 dan dikomersialkan pada tahun 1994, protokol Internet (IP) pertama dari Indonesia, UI-NETLAB (192.41.206/24) didaftarkan oleh Universitas Indonesia pada 24 Juni 1988. Jaringan internet awalnya dikenal dengan istilah paguyuban network, hal ini dilandaskan pada semangat kerjasama, kekeluargaan dan gotong royong di antara pelakunya. Adapun tokoh-tokoh yang berperan penting dalam masuknya internet ke indonesia antara lain RMS Ibrahim, Suryono Adisoemarta, Muhammad Ihsan, Robby Soebiakto, Putu, Firman Siregar, Adi Indrayanto, dan Onno W. Purbo.
