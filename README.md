@@ -42,5 +42,7 @@ File server menjadi jantung dari sistem, menyediakan akses dan resources dan men
  Cara untuk mengkoneksikan komputer satu dengan yang lainnya disebut sebagai topologi. Secara umum topologi dibagi menjadi 5 macam, yaitu topologi bus, ring, star, tree dan mesh
 ## 4.	Tugas dan Evaluasi
 a.	Dengan bahasa sendiri, apakah yang disebut dengan jaringan komputer ?
+
 b.	Buatlah poin perbandingan topologi berdasarkan kelebihan, kelemahan dan karakteristiknya !
+
 c.	Sebutkan manfaat jaringan komputer berdasarkan hiburan, sosial budaya, pemerintahan, dan kesehatan !
