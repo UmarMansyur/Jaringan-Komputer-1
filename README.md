@@ -4,15 +4,11 @@
 - Bagaimana implementasi jaringan komputer di dunia nyata ?
 - Apa saja manfaat jaringan komputer ?
 ## 2.	Tujuan
-a.	Mahasiswa memahami konsep dasar jaringan komputer.
-
-b.	Mahasiswa dapat mengetahui implementasi jaringan komputer.
-
-c.	Mahasiswa dapat menjelaskan klasifikasi jaringan komputer berdasarkan jarak.
-
-d.	Mahasiswa dapat mengetahui serta dapat menyebutkan topologi jaringan komputer.
-
-e.	Mahasiswa dapat mengetahui manfaat jaringan komputer.
+-	Mahasiswa memahami konsep dasar jaringan komputer.
+-	Mahasiswa dapat mengetahui implementasi jaringan komputer.
+-	Mahasiswa dapat menjelaskan klasifikasi jaringan komputer berdasarkan jarak.
+-	Mahasiswa dapat mengetahui serta dapat menyebutkan topologi jaringan komputer.
+-	Mahasiswa dapat mengetahui manfaat jaringan komputer.
 ## 3.	Dasar Teori
 Konsep jaringan komputer bermula pada tahun 1940-an di Amerika dari sebuah proyek pengembangan komputer di laboratorium Bell dan Group Riset dari Universitas Harvad yang di ketuai oleh Howard Aiken. Proyek tersebut awalnya hanya bertujuan untuk menghubungkan perangkat komputer yang harus dipakai bersama untuk mengurangi waktu kosong dari beberapa proses yang dikerjakan. 
 #### a.	Pengertian Jaringan Komputer
@@ -39,8 +35,6 @@ Client Server adalah jaringan komputer memiliki satu buah server dan lainya bert
 File server menjadi jantung dari sistem, menyediakan akses dan resources dan menyediakan keamanan. Individual workstation (client) memiliki akses ke resources yang tersedia pada file server. Untuk menggunakan Jaringan Client Server diperlukan sebuah media perantara berupa hub/switch.
  Cara untuk mengkoneksikan komputer satu dengan yang lainnya disebut sebagai topologi. Secara umum topologi dibagi menjadi 5 macam, yaitu topologi bus, ring, star, tree dan mesh
 ## 4.	Tugas dan Evaluasi
-a.	Dengan bahasa sendiri, apakah yang disebut dengan jaringan komputer ?
-
-b.	Buatlah poin perbandingan topologi berdasarkan kelebihan, kelemahan dan karakteristiknya !
-
-c.	Sebutkan manfaat jaringan komputer berdasarkan hiburan, sosial budaya, pemerintahan, dan kesehatan !
+-	Dengan bahasa sendiri, apakah yang disebut dengan jaringan komputer ?
+-	Buatlah poin perbandingan topologi berdasarkan kelebihan, kelemahan dan karakteristiknya !
+-	Sebutkan manfaat jaringan komputer berdasarkan hiburan, sosial budaya, pemerintahan, dan kesehatan !
