@@ -32,6 +32,7 @@ MAN adalah jenis jaringan komputer yang mencakup kota. MAN sendiri merupakan kum
 Lebih luas dari MAN, WAN merupakan jenis jaringan komputer  yang cakupannya antar pulau, kota atau negara. 
 6.	GAN (Global Area Network)
 GAN merupakan jenis jaringan yang memungkinkan komunikasi perangkat mobile melalui berbagai wireless dalam jangkauan satelit.
+
 Berdasarkan fungsi, jaringan komputer dapat diklasifikasikan sebagaimana berikut:
 1.	Peer to Peer
 Jaringan Peer to Peer adalah jaringan komputer yang setiap host dapat menjadi server dan juga menjadi client secara bersamaan. Jaringan Peer to Peer memperbolehkan pemakai dapat sharing resource dan file pada komputer. Jaringan Peer to Peer tidak mempunyai file server atau sumber manajemen yang terpusat. Dalam Jaringan Peer to Peer semua komputer di perlakukan sama, mereka semua mempunyai kemampuan yang sama untuk menggunakan resources yang tersedia pada jaringan. Jaringan Peer to Peer di tujukan bagi Local Area Network (LAN) kecil sampai menengah. Jadi, peer to peer merupakan jaringan komputer dimana setiap komputer dapat menjadi server dan client.
