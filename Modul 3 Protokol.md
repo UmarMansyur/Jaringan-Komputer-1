@@ -17,6 +17,9 @@ Di dalam jaringan komputer hal yang demikian juga berlaku. Maka agar komputer da
 ### a.	Pengertian Protokol
 Secara umum protokol jaringan memiliki arti aturan atau prosedur tertentu dalam jaringan. Arti lebih khususnya protokol merupakan sarana komunikasi antara mesin dengan jaringan yang terstandarisasi. Protokol digunakan untuk mendeteksi kesalahan, tipe kompresi dan bagaimana penerima mengindikasikan bahwa pesan diterima, protokol dapat memberikan deksripsi detail level bawah dari interface msein ke mesin seperti perintah bit dan byte yang ditransmisikan melalui kabel, atau pertukaran level atas antara program alokasi. Penggunaan protokol yang sama menyebabkan antar vendor yang berbeda dapat berkomunikasi pada jaringan yang sama. Protokol yang standar adalah (TCP/IP), WEB menggunakan server HTTP sehingga komputer dapat melakukan pencetakan, komunikasi dan beberapa layanan lain pada user.
 Protokol-protokol internet yang sering digunakan adalah seperti, IP (Internet Protocol), TCP(Transmition Control Protocol), UDP(User Datagram Protocol), DNS (Domain Name System), HTTP(Hyper Text Transfer Protocol), HTTPS(Hyper Text Transfer Protocol Secure), SSH(Secure Shell), dan sebagainya.
+
+![image](https://user-images.githubusercontent.com/70986579/153551197-b862c8cf-649c-478a-8256-e3ccacc42ed9.png)
+
 ### b.	Cara Kerja Protokol
 “ The fundamental idea is that a particular piece of software (or hardware) provides a service to its users but keeps the details of its internal state and algorithms hidden from them” -  Andrew S. Tanenbaum
 
