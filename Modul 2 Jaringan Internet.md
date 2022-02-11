@@ -1,5 +1,5 @@
 # MODUL 2 JARINGAN INTERNET
-![image](https://user-images.githubusercontent.com/70986579/153548806-bf05ad16-b09e-4d44-90a4-5106de522bee.png)
+![image](https://user-images.githubusercontent.com/70986579/153549267-803e514c-817a-44ea-81b9-153146552470.png)
 ## 1.	Tugas Pendahuluan
 -	Apakah yang dimaksud dengan jaringan internet?
 -	Bagaimana jaringan internet dapat bekerja ?
