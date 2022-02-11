@@ -1,4 +1,5 @@
 # Modul 1 Pengenalan Jaringan Komputer
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fajrinfo.com%2F2020%2F06%2Fapa-itu-jaringan-komputer-dan-apa-saja-jenis-jaringan-komputer.html&psig=AOvVaw2LfZCmkAjt7FJNyij2JqP4&ust=1644646443050000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODBnM3_9vUCFQAAAAAdAAAAABAD
 ## 1. Tugas Pendahuluan
 - Apakah yang dimaksud dengan jaringan komputer ?
 - Bagaimana implementasi jaringan komputer di dunia nyata ?
