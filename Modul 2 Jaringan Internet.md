@@ -28,6 +28,7 @@ Jaringan internet adalah jaringan komputer global yang terbentuk dari jaringan-j
 Istilah TCP/IP merupakan standar protocol jaringan pengguna global. Kemudian, proses untuk menghubungkan antara rangkaian internet disebut dengan “internetworking”.
 
 ### b.	Cara Kerja Internet
+![image](https://user-images.githubusercontent.com/70986579/153550071-0d43a435-2143-490a-a060-4937d1ee57a6.png)
 
 Perangkat computer maupun laptop pasti memiliki IP Adress yang diberikan oleh ISP. Kemudian ISP akan melakukan konfigurasi alamat supaya alamat tersebut bisa tersambung ke server ISP. Server ISP memiliki tugas menerima request signal dari berbagai macam browser yang digunakan, entah itu google chrome, mozila firefox, opera dan sebagainya. Dengan cara itu, user dapat membuka page serta mengakses berbagai kebutuhan lainnya, namun server memiliki Batasan dalam menampung informasi ataupun request dari user, sehingga signal tersebut akan dialihkan ke server lain, hal ini disebut dengan hostserver.
 Konfigurasi alamat IP biasanya akan dilakukan di router, dari inilah pengguna bisa melakukan berbagai macam konfigurasi lainnya sesuai dengan kebutuhan.  Beberapa konfigurasi yang bisa dilakukan adalah pembatasan sinyal, pembatasan kecepatan, daftar blokir, dan lain-lain.
