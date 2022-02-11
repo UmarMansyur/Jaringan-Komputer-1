@@ -1,4 +1,5 @@
 # Modul 1 Pengenalan Jaringan Komputer
+![spanduk](https://user-images.githubusercontent.com/70986579/153545831-48955fef-d9e5-43e5-8b1b-78fcb3a41b1c.jpg)
 
 ## 1. Tugas Pendahuluan
 - Apakah yang dimaksud dengan jaringan komputer ?
