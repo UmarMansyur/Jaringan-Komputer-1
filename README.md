@@ -1,1 +1,1 @@
-# Jaringan-Komputer-1
+# Mata Kuliah Jaringan Komputer 1
