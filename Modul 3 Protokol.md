@@ -10,6 +10,8 @@
 -	Mahasiswa dapat mengetahui cara kerja dari protokol.
 -	Mahasiswa mampu menyebutkan jenis protokol dan fungsinya.
 ## 3.	Dasar Teori
+![image](https://user-images.githubusercontent.com/70986579/153551085-807d0c9e-1989-41cf-bd12-ebc5a23db678.png)
+
 Pada pembahasan sebelumnya dijelaskan bahwa jaringan komputer merupakan kumpulan komputer yang saling terhubung sehingga dapat melakukan komunikasi, berbagai resource serta dapat mentransfer file berupa video, audio dan sebagainya. Dalam proses menghubungkan jaringan komputer tentunya ada interaksi antara perangkat keras komputer dengan perangkat lunak antara komputer satu dengan yang lainnya. Ilustrasinya jika dalam suatu daerah menggunakan bahasa tertentu dalam komunikasi maka orang asing dapat berkomunikasi dengan orang di daerah itu harus menggunakan bahasa yang sama, atau dengan menggunakan bahasa nasional. 
 Di dalam jaringan komputer hal yang demikian juga berlaku. Maka agar komputer dapat terhubung antara komputer satu dengan yang lainnya tentunya harus menggunakan bahasa yang sama dengan aturan tertentu. Mekanisme pengaturan bahasa yang dapat di pahami antar sistem dikenal dengan istilah protokol
 ### a.	Pengertian Protokol
