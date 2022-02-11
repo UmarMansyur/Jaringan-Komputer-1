@@ -22,6 +22,8 @@ Internet merupakan istilah yang lahir dari tahun 1960-an di Amerika Serikat, kat
 
 Dikutip dari web resmi ITB, internet masuk ke indonesia tahun 1998 dan dikomersialkan pada tahun 1994, protokol Internet (IP) pertama dari Indonesia, UI-NETLAB (192.41.206/24) didaftarkan oleh Universitas Indonesia pada 24 Juni 1988. Jaringan internet awalnya dikenal dengan istilah paguyuban network, hal ini dilandaskan pada semangat kerjasama, kekeluargaan dan gotong royong di antara pelakunya. Adapun tokoh-tokoh yang berperan penting dalam masuknya internet ke indonesia antara lain RMS Ibrahim, Suryono Adisoemarta, Muhammad Ihsan, Robby Soebiakto, Putu, Firman Siregar, Adi Indrayanto, dan Onno W. Purbo.
 
+![image](https://user-images.githubusercontent.com/70986579/153549867-35da8309-237d-425d-8a35-81d5ba2b7f02.png)
+
 Jaringan internet adalah jaringan komputer global yang terbentuk dari jaringan-jaringan komputer lokal dan regional yang memungkinkan komunikasi data antar komputer yang terhubung pada ke jaringan tersebut. Internet sendiri merupakan singkatan dari Interconnected Network. Untuk standar global dalam penggunaan jaringan internet sendiri menggunakan TCP / IP (Transmission Control Protocol / Internet Protocol).
 Istilah TCP/IP merupakan standar protocol jaringan pengguna global. Kemudian, proses untuk menghubungkan antara rangkaian internet disebut dengan “internetworking”.
 
