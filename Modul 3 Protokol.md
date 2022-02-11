@@ -1,7 +1,5 @@
 # MODUL III PROTOKOL
-![image](https://user-images.githubusercontent.com/70986579/153550513-b9446466-99ef-4b74-a2c4-3bed2fe0c709.png)
-![image](https://user-images.githubusercontent.com/70986579/153550543-0f7f63d9-bfeb-41f2-9657-f5b8fb718fd4.png)
-![image](https://user-images.githubusercontent.com/70986579/153550566-4504560a-f00b-4958-8ff1-d18c7beb9ef3.png)
+![image](https://user-images.githubusercontent.com/70986579/153550992-f0568f51-6a76-4914-bbc9-776ea4227183.png)
 
 ## 1.	Tugas Pendahuluan
 -	Apakah yang dimaksud dengan protokol jaringan?
