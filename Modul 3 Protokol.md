@@ -30,13 +30,11 @@ Protokol sebagaimana yang telah di sebutkan di atas mengacu terhadap kesepakatan
 
 Analogi sederhana dalam cara kerja protokol sebagaimana pada gambar di atas, pada layer ke 3, bayangkan ada dua filsuf dimana keduanya menggunakan bahasa yang berbeda, filsuf A menggunakan bahasa Inggris sedangkan filsuf B mengerti bahasa Urdu, kemudian filsuf A ingin mengirimkan pesan ke secretary karena si secretary juga menggunakan bahasa yang berbeda maka butuh translator untuk menerjemahkannya begitu juga dengan filsuf B. Untuk mengetahui lebih jelasnya tentang cara kerja protokol akan di bahas pada modul selanjutnya. Pada modul selanjutnya, maksud dari layer/ lapisan akan di bahas secara umum dan terkait pembahasan layernya akan di bahas lebih rinci pada modul 5 sampai 11 dimana modul selanjutnya akan membahas model referensi OSI layer. Pada model OSI, terdapat beberapa lapisan yang menjelankan tugas dan fungsinya masing-masing serta setiap layernya memiliki protokol yang berbeda kecuali pada layer fisik dan tautan data.
 ## 4.	Tugas dan Evaluasi
--	Menurut pembahasan sendiri, apa yang dimaksud protokol ?
--	Apa keuntungan yang didapatkan jika menggunakan protokol yang sama ?
+-	Menurut pemahaman sendiri, apa yang dimaksud protokol ?
 -	Apakah perbedaan antara protokol HTTP dengan HTTPS ?
--	Buatlah analogi sederhana dari cara kerja protokol, selain analogi di atas !
+-	Buatlah analogi sederhana dari cara kerja protokol selain analogi di atas !
 -	Sebutkan fungsi dari jenis prokol yang telah di sebutkan di atas !
 ## 5.	Referensi
 Mulyanta , Edi S, Pengenalan Jaringan Wireless Komputer, Surabaya: Andi
-
 Syafrizal, Melwin, 2020, Pengantar Jaringan Komputer, Surabaya: Andi
 
